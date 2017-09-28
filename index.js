@@ -1,5 +1,3 @@
-polishedBoardMember = new BoardMember("Mr. Polished", "New York", "law")
-
 function BoardMember(name, homeState, training) {
   this.name = name;
   this.homeState = homeState;
